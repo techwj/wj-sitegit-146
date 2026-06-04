@@ -1,0 +1,59 @@
+{
+  "siteId": "balcony-vegetable-growing-plan",
+  "generatedAt": "2026-06-04T11:35:44.128521",
+  "categories": [
+    "beginner-balcony-vegetable-growing-plan",
+    "advanced-balcony-vegetable-growing-plan",
+    "tips-balcony-vegetable-growing-plan",
+    "history-balcony-vegetable-growing-plan",
+    "trending-balcony-vegetable-growing-plan",
+    "tutorials-balcony-vegetable-growing-plan"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-balcony-vegetable-growing-plan",
+      "category_name": "Beginner Balcony Vegetable Growing Plan"
+    },
+    {
+      "category_slug": "advanced-balcony-vegetable-growing-plan",
+      "category_name": "Advanced Balcony Vegetable Growing Plan"
+    },
+    {
+      "category_slug": "tips-balcony-vegetable-growing-plan",
+      "category_name": "Balcony Vegetable Growing Plan Tips"
+    },
+    {
+      "category_slug": "history-balcony-vegetable-growing-plan",
+      "category_name": "Balcony Vegetable Growing Plan History"
+    },
+    {
+      "category_slug": "trending-balcony-vegetable-growing-plan",
+      "category_name": "Trending Balcony Vegetable Growing Plan"
+    },
+    {
+      "category_slug": "tutorials-balcony-vegetable-growing-plan",
+      "category_name": "Balcony Vegetable Growing Plan Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "balcony-vegetable-growing-plan",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Balcony Vegetable Growing Plan Central",
+    "articles_per_row": 2
+  }
+}

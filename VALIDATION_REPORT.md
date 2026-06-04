@@ -1,0 +1,88 @@
+# Validation Report - balcony-vegetable-growing-plan
+
+Generated: 2026-06-04T11:35:44.128191
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Beginner Balcony Vegetable Growing Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Beginner Balcony Vegetable Growing Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Beginner Balcony Vegetable Growing Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Common Mistakes in Beginner Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Beginner Balcony Vegetable Growing Plan for Beginners
+- ✓ Article word count OK: Advanced Beginner Balcony Vegetable Growing Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Advanced Balcony Vegetable Growing Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Advanced Balcony Vegetable Growing Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Advanced Balcony Vegetable Growing Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Common Mistakes in Advanced Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Advanced Balcony Vegetable Growing Plan for Beginners
+- ✓ Article word count OK: Advanced Advanced Balcony Vegetable Growing Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Balcony Vegetable Growing Plan Tips
+- ✓ Article word count OK: Balcony Vegetable Growing Plan Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Balcony Vegetable Growing Plan Tips
+- ✓ Article word count OK: Balcony Vegetable Growing Plan Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Balcony Vegetable Growing Plan Tips
+- ✓ Article word count OK: Balcony Vegetable Growing Plan Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Balcony Vegetable Growing Plan Tips
+- ✓ Article word count OK: Common Mistakes in Balcony Vegetable Growing Plan Tips
+- ✓ Article word count OK: Balcony Vegetable Growing Plan Tips for Beginners
+- ✓ Article word count OK: Advanced Balcony Vegetable Growing Plan Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Balcony Vegetable Growing Plan History
+- ✓ Article word count OK: Balcony Vegetable Growing Plan History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Balcony Vegetable Growing Plan History
+- ✓ Article word count OK: Balcony Vegetable Growing Plan History Tips and Best Practices
+- ✓ Article word count OK: The History of Balcony Vegetable Growing Plan History
+- ✓ Article word count OK: Balcony Vegetable Growing Plan History in 2026: Current Trends
+- ✓ Article word count OK: Future of Balcony Vegetable Growing Plan History
+- ✓ Article word count OK: Common Mistakes in Balcony Vegetable Growing Plan History
+- ✓ Article word count OK: Balcony Vegetable Growing Plan History for Beginners
+- ✓ Article word count OK: Advanced Balcony Vegetable Growing Plan History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Trending Balcony Vegetable Growing Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Trending Balcony Vegetable Growing Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Trending Balcony Vegetable Growing Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Common Mistakes in Trending Balcony Vegetable Growing Plan
+- ✓ Article word count OK: Trending Balcony Vegetable Growing Plan for Beginners
+- ✓ Article word count OK: Advanced Trending Balcony Vegetable Growing Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Balcony Vegetable Growing Plan Tutorials
+- ✓ Article word count OK: Balcony Vegetable Growing Plan Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Balcony Vegetable Growing Plan Tutorials
+- ✓ Article word count OK: Balcony Vegetable Growing Plan Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Balcony Vegetable Growing Plan Tutorials
+- ✓ Article word count OK: Balcony Vegetable Growing Plan Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Balcony Vegetable Growing Plan Tutorials
+- ✓ Article word count OK: Common Mistakes in Balcony Vegetable Growing Plan Tutorials
+- ✓ Article word count OK: Balcony Vegetable Growing Plan Tutorials for Beginners
+- ✓ Article word count OK: Advanced Balcony Vegetable Growing Plan Tutorials Techniques
+- ✓ Ad configuration validated
